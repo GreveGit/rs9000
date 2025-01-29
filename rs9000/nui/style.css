@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'DSEG7Classic';
-  src: url('fonts/dseg7.ttf');
+  src: url('dseg7.ttf');
 }
 
 @font-face {
   font-family: 'D-DIN Bold';
-  src: url('fonts/d-din.otf');
+  src: url('d-din.otf');
 }
 
 html, body {
