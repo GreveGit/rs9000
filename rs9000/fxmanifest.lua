@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-cerulean 'gta5'
+game 'gta5'
 
 ui_page 'nui/index.html'
 
