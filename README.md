@@ -1,6 +1,6 @@
 # A more up-to-date manifest and fixed NUI fetching.
 
-# Credit 
+# Credit - Original Author 
 
 https://github.com/randomsean/RS9000
 
