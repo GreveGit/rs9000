@@ -24,16 +24,6 @@ Control of the radar system is done using the control panel.
 
 * Press **Ctrl+X** to open the control panel
 
-## Installation
-
-To install RS9000 on your FiveM server, follow these simple steps:
-* Download the [latest version](https://github.com/GreveGit/rs9000/releases/tag/v1.0)
-* Unpack the `rs9000` directory inside the `.zip` file to your FiveM server `resources` directory
-* Add the following directive to your FiveM `server.cfg` file
-```
-ensure rs9000
-```
-* That's it! Well, unless you wish to [configure](#configuration) it
 
 ## Configuration
 
@@ -49,6 +39,17 @@ The following is the currently supported configuration keys and values:
 | `fastLimit`                          | `0-999`           | `90`    | Default fast speed limit              |
 | `controls.openControlPanel.modifier` | Control index     | `224`   | `INPUT_SCRIPT_RLEFT` or `LEFT CTRL`   |
 | `controls.openControlPanel.control`  | Control index     | `73`    | `INPUT_VEH_DUCK` or `X`               |
+
+## Installation
+
+To install RS9000 on your FiveM server, follow these simple steps:
+* Download the [latest version](https://github.com/GreveGit/rs9000/releases/tag/v1.0)
+* Unpack the `rs9000` directory inside the `.zip` file to your FiveM server `resources` directory
+* Add the following directive to your FiveM `server.cfg` file
+```
+ensure rs9000
+```
+* That's it! Well, unless you wish to [configure](#configuration) it
 
 #### Controls
 
