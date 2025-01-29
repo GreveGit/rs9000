@@ -42,10 +42,10 @@ The following is the currently supported configuration keys and values:
 
 | Key                                  | Values            | Default | Notes                                 |
 | ------------------------------------ | ----------------- | ------- | ------------------------------------- |
-| `units`                              | `"mph"`, `"km/h"` | `"mph"` | Units of speed displayed on the radar |
+| `units`                              | `"mph"`, `"km/h"` | `"km/h"` | Units of speed displayed on the radar |
 | `plateReader`                        | `true`/`false`    | `true`  | Plate reader functionality            |
 | `beep`                               | `true`/`false`    | `true`  | Whether or not beep is on by default  |
-| `fastLimit`                          | `0-999`           | `80`    | Default fast speed limit              |
+| `fastLimit`                          | `0-999`           | `90`    | Default fast speed limit              |
 | `controls.openControlPanel.modifier` | Control index     | `224`   | `INPUT_SCRIPT_RLEFT` or `LEFT CTRL`   |
 | `controls.openControlPanel.control`  | Control index     | `73`    | `INPUT_VEH_DUCK` or `X`               |
 
