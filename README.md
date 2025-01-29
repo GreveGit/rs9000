@@ -1,4 +1,4 @@
-# A more up-to-date way to structure folders, an updated fxmanifest.lua, and improved NUI fetching.
+# A more up-to-date manifest and fixed NUI fetching.
 
 # Credit 
 
