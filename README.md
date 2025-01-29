@@ -26,7 +26,7 @@ Control of the radar system is done using the control panel.
 ## Installation
 
 To install RS9000 on your FiveM server, follow these simple steps:
-* Download the [latest version](https://github.com/randomsean/RS9000/releases)
+* Download the [latest version](https://github.com/GreveGit/rs9000/releases/tag/v1.0)
 * Unpack the `rs9000` directory inside the `.zip` file to your FiveM server `resources` directory
 * Add the following directive to your FiveM `server.cfg` file
 ```
