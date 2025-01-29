@@ -7,7 +7,8 @@ https://github.com/randomsean/RS9000
 # RS9000
 RS9000 is a realistic traffic enforcement radar system for FiveM servers.
 
-***Warning:** RS9000 is a **work in progress**. Currently there is no guarantee on the stability of the software. All features are subject to change.*
+
+***Warning:** RS9000 is a **WIP Project**. Currently there is no guarantee on the stability of the software. All features are subject to change.*
 
 ![Radar](https://i.imgur.com/Ugp6wLo.png)
 
